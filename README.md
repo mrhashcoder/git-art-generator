@@ -1,7 +1,7 @@
 # git-art-generator
 To Design The Git Board
 ## How to Use : 
-1. create a private repo.
+1. create a repo.
 2. clone repo that private repo on your local space.
 3. copy the data on this repo on that file and run these commands : git add . => git commit -m "1stcommit" => git push
 4. run command ### npm install
