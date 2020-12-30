@@ -15,7 +15,7 @@ const makeCommit = (points , n) => {
     }
 
     let x = points[n]['x'];
-    if(x >= 51 || x < 0){
+    if(x > 51 || x < 0){
         makeCommit.bind(this , points , ++n);
     }
     let y = points[n]['y'];
