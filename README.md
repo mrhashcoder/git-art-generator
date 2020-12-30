@@ -1,5 +1,6 @@
 # git-art-generator
 To Design The Git Board
+### visit my git board of 2k15 to see a example.
 ## How to Use : 
 1. create a repo.
 2. clone repo that private repo on your local space.
