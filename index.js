@@ -23,7 +23,7 @@ const makeCommit = (points , n) => {
         makeCommit.bind(this , points , ++n);
     }
 
-    let DATE = moment().day(0).subtract(6,'y').day(7);
+    let DATE = moment().day(0).subtract(10,'y').day(7);
     // setting up date to postion at (x , y);
     DATE = DATE.add(x , 'w').add(y-1 , 'd').format();
     
